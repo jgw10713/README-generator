@@ -45,7 +45,7 @@ ${answers.usage}
 ${answers.credits}
 
 ## License
-${answers.license}
+![static-badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)
 
 ## Tests
 ${answers.test}
