@@ -22,7 +22,7 @@ return inquirer
         {
             type: 'input',
             name: 'motivation',
-            message: "What was your motivation?.",
+            message: "What was your motivation?",
             
         },
         {
@@ -42,6 +42,44 @@ return inquirer
             name: 'learn',
             message: "What did you learn?",
             
+        },
+        {
+            type: `input`,
+            name: `installation`,
+            message: `What are the steps required to install your project?`
+        },
+        {
+            type: `input`,
+            name: `usage`,
+            message: `Please provide instructions and examples for use.`
+        },
+        {
+            type: `input`,
+            name: `credits`,
+            message: `Please list your collaborators.`,
+            default: `Currently this project has no outside collaborators.`
+        },
+        {
+            type: `input`,
+            name: `license`,
+            message: `What licenses are you using in this project?`,
+            default: `Currently this project is not using any licenses`,
+        },
+        {
+            type: `input`,
+            name: `test`,
+            message: `Are there any tests for this project?`,
+            default: `Currently this project has no tests`,
+        },
+        {
+            type: `input`,
+            name: `git`,
+            message: `What is your github username?`,
+        },
+        {
+            type: `input`,
+            name: `email`,
+            message: `What is your email address?`,
         },
     ]);
 };
