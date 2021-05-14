@@ -4,7 +4,7 @@
 
 This project is a command-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer)
 
-<iframe src="./assets/usage.gif" width="640" height="480"></iframe>
+![Alt Text](./assets/usage.gif)
 
 ## Acceptance Criteria
 
