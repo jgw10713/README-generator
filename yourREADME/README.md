@@ -1,16 +1,17 @@
-# test
+# README Generator
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Description
 
-test
+This project will generate a README using node.js and inquirer.
 
-test
+The quest for knowledge.
 
-test
+To learn more about README's, node.js, and inquirer.
 
-test
+This project will create a base README template to build off of.
 
-test
 
 ## Table of Contents 
 - [Description](#description)
@@ -22,25 +23,21 @@ test
 - [Questions](#questions)
 
 ## Installation
-test
+Clone the repo. Open a terminal in the correct directory. Run `npm init -y`. run `npm i inquirer`.
 
 ## Usage
-test
+In the terminal, run `node index.js`. Answer the questions.
   
 ## Credits
-test
+Currently this project has no outside collaborators.
 
 ## License
-![static-badge](https://img.shields.io/badge/license-test-brightgreen)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+This project is covered under Apache
 
 ## Tests
-test
+Currently this project has no tests
 
 ## Questions
-Find me on GitHub: [test](https://github.com/test)
-Email me with aditional questions: test
-
-## Badges
-![README-generator](https://img.shields.io/github/languages/top/jgw10713/README-generator)
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
+Find me on GitHub: [jgw10713](https://github.com/jgw10713)
+Email me with aditional questions: jgw10713@gmail.com
